@@ -52,7 +52,7 @@ Mise en place de bonnes pratiques de programmation dans un environnement collabo
 
 L'évaluation sera composée comme suit (les coefficients sont susceptibles de modifications) :
 
-* 25% une démonstration intermédiaire de 5' à '10' 
+* 25% une démonstration intermédiaire de 5' à 10'
 * 50% une démonstration finale de 5' suivie de 10' de questions
 * 25% qualité du code et rapport
 
@@ -74,11 +74,3 @@ La réalisation du projet mobilisera les compétences suivantes, par ordre à pe
 * en bases de données relationnelle
 
 Dans ce projet
-
-
-
-
-
-
-
-
