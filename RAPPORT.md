@@ -1,5 +1,5 @@
-Projet de programmation 2021 : rapport
-====================================
+Projet de programmation 2021 à l'UNC : rapport
+==============================================
 
 * Membre 1 du binôme : NOM Prénom, num étudiant
 * Membre 2 du binôme : NOM Prénom, num étudiant
