@@ -53,7 +53,7 @@ Au delà de la qualité algorithmique, le projet doit mettre en oeuvre les bonne
 La réalisation doit avoir un très haut niveau de qualité, ce qui comprend :
 
 * la gestion de version du code (via un dépôt Git),
-* les commentaires dans le code,
+* la documentation et les commentaires du code,
 * la mise en forme du code,
 * le choix des symboles (noms de variables et de fonctions),
 * l'organisation générale du code
@@ -63,25 +63,32 @@ Vous serez donc amenés à découvrir et utiliser des outils de l'écosytème Py
 
 ### Jalons / emploi du temps
 
-(à finaliser)
+_(à finaliser)_
 
 * 15/02 : #01 : introduction, CdC
 * 22/02 : #02 : mise en place projets, conception
 * 01/03 : #03
 * 08/03 : #04
-* 15/03 : #05
-* 22/03 : #06
-* 29/03 : #07 - démo intermédiaire
+* 15/03 : ~~pas de séance~~
+* 22/03 : #05
+* 29/03 : #06 : démo intermédiaire
 * 05/04 : ~~lundi de Pâques / vacances~~
 * 12/04 : #08
 * 19/04 : #09
 * 16/04 : #10
 * 03/05 : #11
-* 10/05 : #12
-* 17/05 : #13 - (séance double) démo finale + rendu code et rapport
-* 24/05
+* 10/05 : ~~pas de séance~~
+* 17/05 : #12
+* 24/05 : évaluation - (séance double) démo finale + rendu code et rapport
 * 31/05
 * 07/06 : 2nd chance
 
 Cahier des charges
 ------------------
+
+Le projet est à réaliser en Python 3.8 ou supérieur.
+
+Références
+----------
+
+TBD
