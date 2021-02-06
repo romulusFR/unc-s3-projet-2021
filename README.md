@@ -80,8 +80,6 @@ _(à finaliser)_
 * 10/05 : ~~pas de séance~~
 * 17/05 : #12
 * 24/05 : évaluation - (séance double) démo finale + rendu code et rapport
-* 31/05
-* 07/06 : 2nd chance
 
 Cahier des charges
 ------------------
