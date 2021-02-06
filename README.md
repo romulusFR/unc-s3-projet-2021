@@ -12,6 +12,7 @@ Introduction
 * Enseignant : Romuald Thion
 * Volume total : 18h TP (12 séances de 1h30)
 * Créneau : lundi 14h00-15h30 à partir du 15/02
+* Page de l'EC : <https://github.com/romulusFR/unc-s3-projet-2021>
 
 ### Descriptif de l'UE
 
@@ -63,7 +64,7 @@ Vous serez donc amenés à découvrir et utiliser des outils de l'écosytème Py
 
 ### Jalons / emploi du temps
 
-_(à finaliser)_
+Emploi du temps _(à finaliser)_.
 
 * 15/02 : #01 : introduction, CdC
 * 22/02 : #02 : mise en place projets, conception
