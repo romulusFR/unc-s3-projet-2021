@@ -60,7 +60,7 @@ La réalisation doit avoir un très haut niveau de qualité, ce qui comprend :
 * l'organisation générale du code
 * les tests.
 
-Vous serez donc amenés à découvrir et utiliser des outils de l'écosytème Python, comme VSCodium/VScode, git et github/gitlab, black, pylint, pydoc ou pytest.
+Vous serez donc amenés à découvrir et utiliser des outils de l'écosytème Python, comme VSCodium/VScode, git et github/gitlab, black, pylint, pydoc, pytest ou encore markdown.
 
 ### Jalons / emploi du temps
 
