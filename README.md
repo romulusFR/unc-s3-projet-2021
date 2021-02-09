@@ -17,10 +17,12 @@ Introduction
 ### Descriptif de l'UE
 
 *Objectifs* : entretenir et approfondir les acquis en programmation autour d'un projet.
-Réalisation d’une application en Python permettant de mettre en pratique et d’approfondir les connaissances d’algorithmique et de programmation de première année sur un projet guidé.
+Réalisation d'une application en Python permettant de mettre en pratique et d'approfondir les connaissances d'algorithmique et de programmation de première année sur un projet guidé.
 Mise en place de bonnes pratiques de programmation dans un environnement collaboratif (Git).
 
 ### Modalités de contrôle de connaissances
+
+Le projet est à réaliser **en binôme ou seul**.
 
 L'évaluation sera composée comme suit (les coefficients sont susceptibles de modifications) :
 
@@ -35,7 +37,7 @@ L'évaluation du code sera en partie automatisée (tests unitaires et exécution
 ### Changelog
 
 * 2021-02-06 : version de base du sujet
-* 2021-02-09 : reprise des objectifs suite à réalisation correction v0.4
+* 2021-02-09 : organisation et jalons du projet
 
 Organisation du projet
 ----------------------
@@ -55,34 +57,34 @@ La réalisation du projet mobilisera les compétences suivantes, par ordre à pe
 Au delà de la qualité algorithmique, le projet doit mettre en œuvre les bonnes pratiques de la programmation en Python.
 La réalisation doit avoir un très haut niveau de qualité, ce qui comprend :
 
-* la gestion du code sur une forge avec [Git](https://git-scm.com/), <https://github.com/> ou <https://gitlab.com/> **obligatoire**,
+* la gestion du code sur une forge avec [Git](https://git-scm.com/), <https://github.com/> ou <https://gitlab.com/>
 * la documentation et les commentaires du code, voir <https://docs.python.org/3/library/pydoc.html> ou <https://pdoc3.github.io/pdoc/>,
 * le guide de style, dont :
   - les bonnes pratiques de code et le choix des symboles (noms de variables et de fonctions), à vérifier par exemple avec <https://www.pylint.org/>,
   - la mise en forme du code, par exemple avec <https://github.com/psf/black> pour le formattage automatique,
 * l'organisation générale du code modulaire, pour la partie Flask notamment
 
-Vous serez donc amenés à découvrir et utiliser des outils de l’écosystème Python qui sont intégré dans [VSCodium](https://vscodium.com/)/[VScode](https://code.visualstudio.com/).
+Vous serez donc amenés à découvrir et utiliser des outils de l'écosystème Python qui sont intégré dans [VSCodium](https://vscodium.com/)/[VScode](https://code.visualstudio.com/).
 
 ### Jalons / emploi du temps
 
-Emploi du temps _(à finaliser)_.
+L'organisation générale du projet est la suivante, avec la réalisation progressive de quatre versions, les liens donnent le travail attendu de chaque séance :
 
-* [15/02, séance #01](seances/SEANCE_01.md) : introduction, CdC
-* [22/02, séance #02](seances/SEANCE_02.md) : mise en place projets, conception
-* [01/03, séance #03](seances/SEANCE_03.md)
-* [08/03, séance #04](seances/SEANCE_04.md)
-* [15/03, séance #05](seances/SEANCE_05.md)
+* [15/02, séance #01](seances/SEANCE_01.md) : initialisation , raffinement du CdC, conception générale
+* [22/02, séance #02](seances/SEANCE_02.md) : conception générale, choix des bibliothèques, plannification, outillage
+* [01/03, séance #03](seances/SEANCE_03.md) : réalisation version 1
+* [08/03, séance #04](seances/SEANCE_04.md) : réalisation version 2
+* [15/03, séance #05](seances/SEANCE_05.md) : réalisation version 2
 * 22/03, ~~pas de séance~~
-* [29/03, séance #06](seances/SEANCE_06.md) : démo intermédiaire
+* [29/03, séance #06](seances/SEANCE_06.md) : démonstration intermédiaire de la version 2
 * 05/04, ~~lundi de Pâques / vacances~~
-* [12/04, séance #07](seances/SEANCE_07.md)
-* [19/04, séance #08](seances/SEANCE_08.md)
-* [16/04, séance #09](seances/SEANCE_09.md)
-* [03/05, séance #10](seances/SEANCE_10.md)
-* 10/05, ~~pas de séance~~
-* [17/05, séance #11](seances/SEANCE_11.md)
-* [24/05, séance #12](seances/SEANCE_12.md) : démo finale et rendu, **séance double**
+* [12/04, séance #07](seances/SEANCE_07.md) : conception de la BD
+* [19/04, séance #08](seances/SEANCE_08.md) : réalisation version 3
+* [16/04, séance #09](seances/SEANCE_09.md) : réalisation version 3
+* [03/05, séance #10](seances/SEANCE_10.md) : réalisation version 4
+* [10/05, séance #11](seances/SEANCE_11.md) : réalisation extension
+* 17/05, ~~pas de séance~~
+* [24/05, séance #12](seances/SEANCE_12.md) (séance double) : démonstration de la version finale
 
 Cahier des charges
 ------------------
@@ -90,9 +92,9 @@ Cahier des charges
 Le projet consiste en la réalisation d'une petite application web de vote : deux citations des Simpsons sont présentées à l'utilisateur qui vote pour sa préférée.
 Les résultats des duels de citations sont enregistrés et un classement des meilleures citations est calculé à partir des votes.
 
-Le projet est à réaliser en Python 3.8 ou supérieur.
+Une des premières étapes du projet sera de raffiner ce cahier des charges (CdC) minimal.
 
-Références
-----------
+### Contraintes
 
-TBD
+L'application est à réaliser en Python 3.8 ou supérieur en utilisant **obligatoirement** une forge Git.
+A part pour le _framework_ web et l'outillage qualité, les bibliothèques non-standard **n'est pas autorisé**.
