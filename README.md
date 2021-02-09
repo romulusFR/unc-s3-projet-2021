@@ -70,8 +70,8 @@ Vous serez donc amenés à découvrir et utiliser des outils de l'écosystème P
 
 L'organisation générale du projet est la suivante, avec la réalisation progressive de quatre versions, les liens donnent le travail attendu de chaque séance :
 
-* [15/02, séance #01](seances/SEANCE_01.md) : initialisation , raffinement du CdC, conception générale
-* [22/02, séance #02](seances/SEANCE_02.md) : conception générale, choix des bibliothèques, plannification, outillage
+* [15/02, séance #01](seances/SEANCE_01.md) : initialisation , raffinement du CdC, outillage qualité
+* [22/02, séance #02](seances/SEANCE_02.md) : conception générale, choix des bibliothèques, plannification
 * [01/03, séance #03](seances/SEANCE_03.md) : réalisation version 1
 * [08/03, séance #04](seances/SEANCE_04.md) : réalisation version 2
 * [15/03, séance #05](seances/SEANCE_05.md) : réalisation version 2
