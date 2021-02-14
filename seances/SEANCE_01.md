@@ -86,6 +86,6 @@ git remote set-url --push upstream DISABLE
 # synthèse avec
 git remote -v
 
-git fetch upstream
-git rebase upstream/master
+# pour télécharger les mise à jour sur le dépôt d'origine et les intégrer
+git pull upstream master
 ```
