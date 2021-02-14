@@ -11,3 +11,14 @@ Objectif
 
 Travail à faire
 ---------------
+
+* faire la liste **exhaustive** des fonctionnalités
+  - si besoin, intéragir avec le client pour préciser le besoin
+* faire la liste des bibliothèques nécessaires (ou utiles)
+* calculer le budget disponbible
+* identifier les tâches puis y ventiler le budget
+
+**Attention** : prévoyez ni _trop peu_ de fonctionnalité (qui ne seraient ni nécessaires nio souhaitées par le client) ni _pas assez_ (prévoir des fonctionnalités implicites évidentes pour le client).
+
+Notes en séance
+---------------
