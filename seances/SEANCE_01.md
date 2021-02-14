@@ -29,8 +29,6 @@ Travail à faire
 * dessiner une esquisse _wireframe_ des différents écrans web
 * pour chacun donner son URL
 
-**Attention** : n'en prévoyez ni _trop_ (beaucoup de fonctionnalités non demandées) ni _pas assez_ (ne pas prévoir des fonctionnalités implicites évidentes).
-
 ### Outillage qualité
 
 * pour chacun des outils suivants, expliquer en une ligne ce qu'il fait
@@ -56,3 +54,20 @@ Notes en séance
 ### Démonstration
 
 En guise de conclusion, la version _finale attendue_ que le client voudrait.
+
+Annexes
+-------
+
+### Création du fork privé
+
+Procédure expliquée ici <https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274>, voir [duplicating a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository) sur la documentation officielle.
+
+```bash
+git clone --bare  git@github.com:romulusFR/unc-s3-projet-2021.git
+cd unc-s3-projet-2021.git/
+git push --mirror git@github.com:romulusFR/unc-s3-projet-2021-fork.git
+cd ..
+rm unc-s3-projet-2021.git/
+
+git clone git@github.com:romulusFR/unc-s3-projet-2021-fork.git
+```
