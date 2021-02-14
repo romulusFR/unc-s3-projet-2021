@@ -46,7 +46,7 @@ Le projet consiste en la réalisation d'une petite application web de vote.
 
 ### Objectifs pédagogiques détaillés
 
-La réalisation du projet mobilisera les compétences suivantes, par ordre à peu près décroissant d'importance :
+La réalisation du projet mobilisera les compétences :
 
 * en programmation et algorithmique Python
 * en recherche et utilisation de bibliothèques (standards essentiellement)
@@ -54,7 +54,7 @@ La réalisation du projet mobilisera les compétences suivantes, par ordre à pe
 * en interfaces utilisateur
 * en bases de données relationnelle
 
-Au delà de la qualité algorithmique, le projet doit mettre en œuvre les bonnes pratiques de la programmation en Python.
+Au delà de la qualité algorithmique, _le projet doit mettre en œuvre les bonnes pratiques de la programmation en Python_.
 La réalisation doit avoir un très haut niveau de qualité, ce qui comprend :
 
 * la gestion du code sur une forge avec [Git](https://git-scm.com/), <https://github.com/> ou <https://gitlab.com/>
@@ -64,7 +64,7 @@ La réalisation doit avoir un très haut niveau de qualité, ce qui comprend :
   - la mise en forme du code, par exemple avec <https://github.com/psf/black> pour le formattage automatique,
 * l'organisation générale du code modulaire, pour la partie Flask notamment
 
-Vous serez donc amenés à découvrir et utiliser des outils de l'écosystème Python qui sont intégré dans [VSCodium](https://vscodium.com/)/[VScode](https://code.visualstudio.com/).
+Vous serez donc amenés à découvrir et utiliser des outils de l'écosystème Python qui sont tous intégrés dans [VSCodium](https://vscodium.com/)/[VScode](https://code.visualstudio.com/).
 
 ### Jalons / emploi du temps
 
@@ -98,3 +98,15 @@ Une des premières étapes du projet sera de raffiner ce cahier des charges (CdC
 
 L'application est à réaliser en Python 3.8 ou supérieur en utilisant **obligatoirement** une forge Git.
 A part pour le _framework_ web et l'outillage qualité, les bibliothèques non-standard **n'est pas autorisé**.
+
+Références
+----------
+
+Quelques références commentées, complétées au fur et à mesure de l'avancement de l'EC
+
+* La documentation officielle <https://docs.python.org/3/index.html> dont les tutoriaux <https://docs.python.org/3/tutorial/> : _la référence officielle_ un peu aride, mais reste la référence officielle.
+* The Hitchhiker’s Guide to Python! <https://docs.python-guide.org/> : _très bon complément à la doc officielle, beaucoup plus orienté pratique_
+* [Fluent Python](http://shop.oreilly.com/product/0636920032519.do), extraits de code sur <https://github.com/fluentpython> : _une mine d'or pour aller plus loin dans Python_
+* Awesome Python : A curated list of awesome Python frameworks, libraries, software and resources. <https://github.com/vinta/awesome-python> : _un peu en vrac, mais beaucoup de bibliothèques tierces de référence_ **important pour le projet**
+* Introduction à la programmation Python pour la biologie à Paris Diderot par Patrick Fuchs et Pierre Poulain : _un très bon cours d'introduction, libre, complet et très accessible, en version HTML et PDF_ <https://python.sdv.univ-paris-diderot.fr/>
+* Real Python Tutorials  : _des tutoriaux gratuit de généralement bonne ou très bonne qualité_ <https://realpython.com/>

@@ -7,6 +7,7 @@ Objectif
 --------
 
 * préciser les périmètres fonctionnels des différentes versions du projet
+* prévoir les outils utiles à leur réalisation
 
 Travail à faire
 ---------------
