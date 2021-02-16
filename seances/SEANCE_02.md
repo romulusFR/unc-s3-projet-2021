@@ -9,6 +9,14 @@ Objectif
 * préciser les périmètres fonctionnels des différentes versions du projet
 * prévoir les outils utiles à leur réalisation
 
+Préparation
+-----------
+
+Travail à faire **avant** la séance :
+
+* envoyer par mail l'URL du dépôt Github
+* tester que tous les membres aient accès en écriture sur le dépôt
+
 Travail à faire
 ---------------
 

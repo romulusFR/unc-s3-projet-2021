@@ -94,6 +94,8 @@ Les résultats des duels de citations sont enregistrés et un classement des mei
 
 Une des premières étapes du projet sera de raffiner ce cahier des charges (CdC) minimal.
 
+Pour vous faire une idée, voir [la vidéo de la démonstration du projet final sur YT](https://youtu.be/89NNkLoDkfk).
+
 ### Contraintes
 
 L'application est à réaliser en Python 3.8 ou supérieur en utilisant **obligatoirement** une forge Git.

@@ -18,18 +18,20 @@ Travail à faire
 
 * constituer les binômes
 * créer, si ce n'est pas déjà fait, un compte <https://github.com/>
-* créer un projet **privé** nommé `unc-s3-projet-2021`
+* créer un dépôt **privé** nommé `unc-s3-projet-2021`
   - donner les droits au binôme et à <https://github.com/romulusFR>
-  - cloner le projet sur vos postes
+  - cloner le dépôt sur vos postes
   - (optionnel) ajouter le présent projet en upstream pour faire "fork privé", [voir l'annexe](#création-du-fork-privé).
 * installer [VScode](https://code.visualstudio.com/) ou [VSCodium](https://vscodium.com/)
 
 ### Raffinement des spécifications
 
-* dessiner une esquisse _wireframe_ des différents écrans web
-* pour chacun donner son URL
+Rémplacé par [la démonstration](#démonstration)
 
-### Outillage qualité
+* ~~dessiner une esquisse _wireframe_ des différents écrans web~~
+* ~~pour chacun donner son URL~~
+
+### Outillage qualité (à voir plus tard)
 
 * pour chacun des outils suivants, expliquer en une ligne ce qu'il fait
   - <https://pdoc3.github.io/pdoc/>
@@ -44,16 +46,9 @@ Travail à faire
   - <https://docs.python.org/3/library/unittest.html>
 * regroupper les outils précédents en catégories
 
-Notes en séance
----------------
-
-### Discussion
-
-* Ouverture d'un serveur Discord ?
-
 ### Démonstration
 
-En guise de conclusion, la version _finale attendue_ que le client voudrait.
+En guise de conclusion, la version _finale attendue_ que le client voudrait, voir [la vidéo YouTube](https://youtu.be/89NNkLoDkfk).
 
 Annexes
 -------
