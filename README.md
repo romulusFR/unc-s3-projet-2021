@@ -13,6 +13,7 @@ Introduction
 * Volume total : 18h TP (12 séances de 1h30)
 * Créneau : lundi 14h00-15h30 à partir du 15/02
 * Page de l'EC : <https://github.com/romulusFR/unc-s3-projet-2021>
+* Canal Discord : `#projet-programmation-python` sur le serveur _Licence Informatique (UNC)_
 
 ### Descriptif de l'UE
 
