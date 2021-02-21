@@ -31,21 +31,6 @@ Rémplacé par [la démonstration](#démonstration)
 * ~~dessiner une esquisse _wireframe_ des différents écrans web~~
 * ~~pour chacun donner son URL~~
 
-### Outillage qualité (à voir plus tard)
-
-* pour chacun des outils suivants, expliquer en une ligne ce qu'il fait
-  - <https://pdoc3.github.io/pdoc/>
-  - <https://www.pylint.org/>
-  - <https://github.com/psf/black>
-  - <https://coverage.readthedocs.io/>
-  - <https://flake8.pycqa.org/>
-  - <https://github.com/google/yapf>
-  - <https://pdoc3.github.io/pdoc/>
-  - <https://docs.pytest.org/>
-  - <https://docs.python.org/3/library/pydoc.html>
-  - <https://docs.python.org/3/library/unittest.html>
-* regroupper les outils précédents en catégories
-
 ### Démonstration
 
 En guise de conclusion, la version _finale attendue_ que le client voudrait, voir [la vidéo YouTube](https://youtu.be/89NNkLoDkfk).

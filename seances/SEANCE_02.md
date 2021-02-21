@@ -20,13 +20,30 @@ Travail à faire **avant** la séance :
 Travail à faire
 ---------------
 
-* faire la liste **exhaustive** des fonctionnalités
-  - si besoin, intéragir avec le client pour préciser le besoin
-* faire la liste des bibliothèques nécessaires (ou utiles)
-* calculer le budget disponbible
-* identifier les tâches puis y ventiler le budget
+### Outillage qualité (à voir plus tard)
 
-**Attention** : prévoyez ni _trop peu_ de fonctionnalité (qui ne seraient ni nécessaires nio souhaitées par le client) ni _pas assez_ (prévoir des fonctionnalités implicites évidentes pour le client).
+* pour chacun des outils suivants, expliquer en une ligne ce qu'il fait
+  - <https://pdoc3.github.io/pdoc/>
+  - <https://www.pylint.org/>
+  - <https://github.com/psf/black>
+  - <https://coverage.readthedocs.io/>
+  - <https://flake8.pycqa.org/>
+  - <https://github.com/google/yapf>
+  - <https://pdoc3.github.io/pdoc/>
+  - <https://docs.pytest.org/>
+  - <https://docs.python.org/3/library/pydoc.html>
+  - <https://docs.python.org/3/library/unittest.html>
+
+### Spécification, conception et plannification
+
+* faire la liste **exhaustive** des fonctionnalités attendues
+  - si besoin, intéragir avec le client pour valider le besoin
+* faire la liste des bibliothèques nécessaires pour réaliser les fonctionnalités
+* ventiler les fonctionnalités dans les _quatre_ version demandées
+
+### Lancer l'application de départ
+
+Voir le dossier [`mini-app`](../mini-app/) qui contient une application Flask minimaliste.
 
 Notes en séance
 ---------------
