@@ -20,7 +20,7 @@ Travail à faire **avant** la séance :
 Travail à faire
 ---------------
 
-### Outillage qualité (à voir plus tard)
+### Outillage qualité (repris de la séance 1)
 
 * pour chacun des outils suivants, expliquer en une ligne ce qu'il fait
   - <https://pdoc3.github.io/pdoc/>
@@ -40,10 +40,16 @@ Travail à faire
   - si besoin, intéragir avec le client pour valider le besoin
 * faire la liste des bibliothèques nécessaires pour réaliser les fonctionnalités
 * ventiler les fonctionnalités dans les _quatre_ version demandées
+* faire un [**diagramme de séquence**](https://fr.wikipedia.org/wiki/Diagramme_de_s%C3%A9quence) pour décrire les échanges qui ont sur la page principale quand elle s'affiche puis qu'on choisit une des citations depuis un navigateur
 
 ### Lancer l'application de départ
 
-Voir le dossier [`mini-app`](../mini-app/) qui contient une application Flask minimaliste.
+Le dossier [`mini-app`](../mini-app/) contient une application Flask minimaliste qui se lance simplement avec `python3 app.py`.
+A ce stade là, on veut juste s'assurer que l'environnement de travail est fonctionnel, on étudiera l'application plus tard.
+
+* copier cette application de départ dans votre propre dépôt Github
+* la lancer sur votre poste de travail puis la tester avec un navigateur
+* regarder les messages qui s'affichent dans la console du navigateur, retrouver le code qui les génère
 
 Notes en séance
 ---------------
