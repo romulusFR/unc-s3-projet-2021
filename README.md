@@ -39,6 +39,7 @@ L'évaluation du code sera en partie automatisée (tests unitaires et exécution
 
 * 2021-02-06 : version de base du sujet
 * 2021-02-09 : organisation et jalons du projet
+* 2021-02-22 : séance 2 et application de départ
 
 Organisation du projet
 ----------------------
