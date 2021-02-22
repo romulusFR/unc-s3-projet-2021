@@ -36,7 +36,7 @@ A ce stade là, on veut essentiellement s'assurer que l'environnement de travail
 
 #### Questions de compréhension
 
-Pour chacune des question suivante, justifier en donnant le fichier et les numéros de ligne de code correspondantes :
+Pour chacune des questions suivantes, justifier en donnant le fichier et les numéros de ligne de code correspondantes :
 
 * où le titre de l'application est-t'il défini ?
 * où les messages de la console JavaScript du navigateur (touche **F12**) sont-ils générés ?
@@ -50,3 +50,7 @@ Pour chacune des question suivante, justifier en donnant le fichier et les numé
 
 Notes en séance
 ---------------
+
+Diagramme de séquence au tableau :
+
+![Diagramme de séquence d'utilisation de l'application web](SEANCE_02_sequence.jpg "Diagramme de séquence")
