@@ -114,3 +114,4 @@ Quelques références commentées, complétées au fur et à mesure de l'avancem
 * Awesome Python : A curated list of awesome Python frameworks, libraries, software and resources. <https://github.com/vinta/awesome-python> : _un peu en vrac, mais beaucoup de bibliothèques tierces de référence_ **important pour le projet**
 * Introduction à la programmation Python pour la biologie à Paris Diderot par Patrick Fuchs et Pierre Poulain : _un très bon cours d'introduction, libre, complet et très accessible, en version HTML et PDF_ <https://python.sdv.univ-paris-diderot.fr/>
 * Real Python Tutorials  : _des tutoriaux gratuit de généralement bonne ou très bonne qualité_ <https://realpython.com/>
+* A Byte of Python : _très bonne référence introductive, traduite en français_ <https://rgilliotte.gitbook.io/byte-of-python/> ([l'originale en englais ici](https://python.swaroopch.com/))
