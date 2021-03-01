@@ -81,12 +81,12 @@ L'organisation générale du projet est la suivante, avec la réalisation progre
 * 22/03, ~~pas de séance~~
 * 29/03, séance #06 : démonstration intermédiaire de la version 1
 * 05/04, ~~lundi de Pâques / vacances~~
-* [12/04, séance #07 : réalisation version 2
-* [19/04, séance #08 : réalisation version 2
-* [16/04, séance #09 : réalisation version 2
-* [03/05, séance #10 : réalisation version 3
-* [10/05, séance #11 : réalisation version 3
-* [17/05, séance #12 : démonstration de la version finale
+* 12/04, séance #07 : réalisation version 2
+* 19/04, séance #08 : réalisation version 2
+* 16/04, séance #09 : réalisation version 2
+* 03/05, séance #10 : réalisation version 3
+* 10/05, séance #11 : réalisation version 3
+* 17/05, séance #12 : démonstration de la version finale
 
 Cahier des charges
 ------------------
