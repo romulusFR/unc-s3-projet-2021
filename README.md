@@ -79,9 +79,9 @@ L'organisation générale du projet est la suivante, avec la réalisation progre
 * 08/03, séance #04 : réalisation version 1
 * 15/03, séance #05 : réalisation version 1
 * 22/03, ~~pas de séance~~
-* 29/03, séance #06 : démonstration intermédiaire de la version 1
+* 29/03, séance #06 : réalisation version 1
 * 05/04, ~~lundi de Pâques / vacances~~
-* 12/04, séance #07 : réalisation version 2
+* 12/04, séance #07 : démonstration intermédiaire de la version 1
 * 19/04, séance #08 : réalisation version 2
 * 16/04, séance #09 : réalisation version 2
 * 03/05, séance #10 : réalisation version 3
