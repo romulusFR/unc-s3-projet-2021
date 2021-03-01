@@ -27,19 +27,17 @@ Le projet est à réaliser **en binôme ou seul**.
 
 L'évaluation sera composée comme suit (les coefficients sont susceptibles de modifications) :
 
-* 20% une démonstration intermédiaire de 5' à 10'
+* 50% une démonstration intermédiaire de 5' à 10'
 * 50% une démonstration finale de 5' suivie de 10' de questions
-* 30% qualité du code et rapport
 
 La démonstration montre l'état d'avancement du projet en mettant en avant les parties fonctionnelles.
-Un court rapport complète la remise du code, un modèle est fourni, voir [`RAPPORT.md`](RAPPORT.md).
-L'évaluation du code sera en partie automatisée (tests unitaires et exécution de `pylint`).
 
 ### Changelog
 
-* 2021-02-06 : version de base du sujet
-* 2021-02-09 : organisation et jalons du projet
+* 2021-03-01 : refonte complète: projet libre et plus Flask
 * 2021-02-22 : séance 2 et application de départ
+* 2021-02-09 : organisation et jalons du projet
+* 2021-02-06 : version de base du sujet
 
 Organisation du projet
 ----------------------
@@ -48,10 +46,13 @@ Le projet consiste en la réalisation d'une petite application web de vote.
 
 ### Objectifs pédagogiques détaillés
 
-La réalisation du projet mobilisera les compétences :
+La réalisation du projet mobilisera les compétences suivantes :
 
 * en programmation et algorithmique Python
 * en recherche et utilisation de bibliothèques (standards essentiellement)
+
+Tout ou partie des compétences suivantes :
+
 * en programmation web (HTML, CSS, très peu de JavaScript)
 * en interfaces utilisateur
 * en bases de données relationnelle
@@ -72,36 +73,31 @@ Vous serez donc amenés à découvrir et utiliser des outils de l'écosystème P
 
 L'organisation générale du projet est la suivante, avec la réalisation progressive de quatre versions, les liens donnent le travail attendu de chaque séance :
 
-* [15/02, séance #01](seances/SEANCE_01.md) : initialisation , raffinement du CdC, outillage qualité
-* [22/02, séance #02](seances/SEANCE_02.md) : conception générale, choix des bibliothèques, plannification
-* [01/03, séance #03](seances/SEANCE_03.md) : réalisation version 1
-* [08/03, séance #04](seances/SEANCE_04.md) : réalisation version 2
-* [15/03, séance #05](seances/SEANCE_05.md) : réalisation version 2
+* [15/02, séance #01](seances/SEANCE_01.md) : initialisation,
+* [22/02, séance #02](seances/SEANCE_02.md) : présentation d'une appli Flask de départ
+* 01/03, séance #03 : changement de sujet projet : passage en projet libre
+* 08/03, séance #04 : réalisation version 1
+* 15/03, séance #05 : réalisation version 1
 * 22/03, ~~pas de séance~~
-* [29/03, séance #06](seances/SEANCE_06.md) : démonstration intermédiaire de la version 2
+* 29/03, séance #06 : démonstration intermédiaire de la version 1
 * 05/04, ~~lundi de Pâques / vacances~~
-* [12/04, séance #07](seances/SEANCE_07.md) : conception de la BD
-* [19/04, séance #08](seances/SEANCE_08.md) : réalisation version 3
-* [16/04, séance #09](seances/SEANCE_09.md) : réalisation version 3
-* [03/05, séance #10](seances/SEANCE_10.md) : réalisation version 4
-* [10/05, séance #11](seances/SEANCE_11.md) : réalisation extension
-* [17/05, séance #12](seances/SEANCE_12.md) : démonstration de la version finale
-
+* [12/04, séance #07 : réalisation version 2
+* [19/04, séance #08 : réalisation version 2
+* [16/04, séance #09 : réalisation version 2
+* [03/05, séance #10 : réalisation version 3
+* [10/05, séance #11 : réalisation version 3
+* [17/05, séance #12 : démonstration de la version finale
 
 Cahier des charges
 ------------------
 
-Le projet consiste en la réalisation d'une petite application web de vote : deux citations des Simpsons sont présentées à l'utilisateur qui vote pour sa préférée.
-Les résultats des duels de citations sont enregistrés et un classement des meilleures citations est calculé à partir des votes.
+Le projet consiste en la réalisation d'une petite application **de votre choix**, les exemples sont les suivantes
 
-Une des premières étapes du projet sera de raffiner ce cahier des charges (CdC) minimal.
-
-Pour vous faire une idée, voir [la vidéo de la démonstration du projet final sur YT](https://youtu.be/89NNkLoDkfk).
-
-### Contraintes
-
-L'application est à réaliser en Python 3.8 ou supérieur en utilisant **obligatoirement** une forge Git.
-A part pour le _framework_ web et l'outillage qualité, les bibliothèques non-standard **n'est pas autorisé**.
+* une petite application web, voir pour cela le [projet Flask de départ](mini-app/app.py),
+* un interpréteur pour "le langage des robots" du TD1 de L1,
+* un jeu classique en interface texte puis graphique : serpent, memory, pacman etc,
+* la reprise d'un sujet de première année à approfondir,
+* un petit outil ligne de commande etc.
 
 Références
 ----------
