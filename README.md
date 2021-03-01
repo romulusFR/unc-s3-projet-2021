@@ -91,7 +91,7 @@ L'organisation générale du projet est la suivante, avec la réalisation progre
 Cahier des charges
 ------------------
 
-Le projet consiste en la réalisation d'une petite application **de votre choix**, les exemples sont les suivantes
+Le projet consiste en la réalisation d'une petite application **de votre choix**, les exemples sont les suivants :
 
 * une petite application web, voir pour cela le [projet Flask de départ](mini-app/app.py),
 * un interpréteur pour "le langage des robots" du TD1 de L1,
