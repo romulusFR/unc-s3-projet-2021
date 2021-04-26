@@ -83,7 +83,7 @@ L'organisation générale du projet est la suivante, avec la réalisation progre
 * 05/04, ~~lundi de Pâques / vacances~~
 * [12/04, séance #07](seances/SEANCE_07.md) : démonstration intermédiaire de la version 1
 * 19/04, séance #08 : réalisation version 2
-* 16/04, séance #09 : réalisation version 2
+* 26/04, séance #09 : réalisation version 2
 * 03/05, séance #10 : réalisation version 3
 * 10/05, séance #11 : réalisation version 3
 * 17/05, séance #12 : démonstration de la version finale
