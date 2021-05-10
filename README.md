@@ -86,7 +86,7 @@ L'organisation générale du projet est la suivante, avec la réalisation progre
 * 26/04, séance #09 : réalisation version 2
 * 03/05, séance #10 : réalisation version 3
 * 10/05, séance #11 : réalisation version 3
-* 17/05, séance #12 : démonstration de la version finale
+* [17/05, séance #12](seances/SEANCE_12.md) : démonstration de la version finale
 
 Cahier des charges
 ------------------
