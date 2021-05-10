@@ -3,3 +3,6 @@ env/
 
 # cache python
 __pycache__/
+
+# config vscode
+.vscode/
